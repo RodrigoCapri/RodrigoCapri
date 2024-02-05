@@ -1,4 +1,4 @@
-# Rodrigo Capri
+# Rodrigo Capri Margarido
 
 Olá, sou um estudante de desenvolvimento de software.
 Atualmente não trabalho na área, mas busco oportunidade para ingressar numa carreira de sucesso.
