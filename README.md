@@ -1,6 +1,6 @@
 # Rodrigo Capri Margarido
 
-Olá, sou um estudante de programação e Matemática Aplicada na Uepg.
+Olá, sou um estudante de programação e Matemática Aplicada na Uepg.\n
 Atualmente não trabalho na área, mas busco oportunidade para ingressar numa carreira de sucesso.
 
 ### Conecte-se comigo
