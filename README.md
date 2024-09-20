@@ -1,15 +1,25 @@
-# Rodrigo Capri Margarido
+# Olá, eu sou o Rodrigo Capri! 👋
 
-Olá, sou um estudante de programação e Matemática Aplicada na Uepg.<br/>
+## 🚀 Sobre mim
+Souestudante de programação e Matemática Aplicada na Uepg.\
 Atualmente não trabalho na área, mas busco oportunidade para ingressar numa carreira de sucesso.
 
-### Conecte-se comigo
+## 🧠 Atualmente estou aprendendo...
+- **Conceitos avançados de matemática**
+- **Modelagem de dados**
+- **MatLab**
+- **Wolfram Mathematica**
+- **Angular**
+- **JavaScript, HTML, CSS**
+
+
+### 📫 Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/rodrigocamr90/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](https://gmail.com/rodrigocamr90@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://linkedin.com/in/rodrigo-margarido/)
 
-### Habilidades
+### 🛠 Habilidades
 
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 |-|-|-|
