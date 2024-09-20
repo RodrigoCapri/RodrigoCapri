@@ -1,10 +1,10 @@
 # Olá, eu sou o Rodrigo Capri! 👋
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 Souestudante de programação e Matemática Aplicada na Uepg.\
 Atualmente não trabalho na área, mas busco oportunidade para ingressar numa carreira de sucesso.
 
-## 🧠 Atualmente estou aprendendo...
+### 🧠 Atualmente estou aprendendo...
 - **Conceitos avançados de matemática**
 - **Modelagem de dados**
 - **MatLab**
