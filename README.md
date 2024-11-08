@@ -52,6 +52,9 @@ Busco ingressar na carreira de Programação Java(Júnior), Cientista de Dados(J
   <tbody align="left">
     <tr>
       <td> <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> </td>
+      <td> Hibernate </td>
+      <td> Jpa </td>
+      <td> DAO </td>
     </tr>
   </tbody>
 </table>
