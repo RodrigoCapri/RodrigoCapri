@@ -55,6 +55,7 @@ Busco ingressar na carreira de Programação Java(Júnior), Cientista de Dados(J
       <td> Hibernate </td>
       <td> Jpa </td>
       <td> DAO </td>
+      <td> Maven </td>
     </tr>
   </tbody>
 </table>
