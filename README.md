@@ -33,19 +33,21 @@ Busco ingressar na carreira de Programação Java(Júnior), Cientista de Dados(J
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Bibliotecas e frameworks
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25C400?style=for-the-badge&logo=junit)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=maven)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=maven)</br>
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 ![Jpa](https://img.shields.io/badge/jpa-007ACC?style=for-the-badge&logo=jpa)
 ![Dao](https://img.shields.io/badge/DAO-FF5733?style=for-the-badge&logo=dao)
 ![Lombook](https://img.shields.io/badge/lombook-000?style=for-the-badge&logo=lombook)
+![JavaFX](https://img.shields.io/badge/javafx-007396?style=for-the-badge&logo=javafx)
 
 ### Banco de dados
 
