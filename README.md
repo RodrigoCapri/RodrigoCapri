@@ -63,9 +63,12 @@ Busco ingressar na carreira de Programação Java(Júnior), Cientista de Dados(J
 
 ## Meus Principais Desafios e Projetos
 
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=rede-social-mongodb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/rede-social-mongodb)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=chess-system-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/chess-system-java)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=empresa_idiomas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/empresa_idiomas)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=projeto-quilometragem-dolphin&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/projeto-quilometragem-dolphin)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=ControlCNC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/ControlCNC)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=whorkshop-springboot3-jpa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/whorkshop-springboot3-jpa)
 
