@@ -63,6 +63,7 @@ Busco ingressar na carreira de Programação Java(Júnior), Cientista de Dados(J
 
 ## Meus Principais Desafios e Projetos
 
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=parque_diversao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/parque_diversao)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=picpay-payement-simplify&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/picpay-payement-simplify)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=rede-social-mongodb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/rede-social-mongodb)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoCapri&repo=chess-system-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RodrigoCapri/chess-system-java)
